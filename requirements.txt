@@ -4,4 +4,4 @@ diffusers
 torch
 Pillow
 pyttsx3(text to speech python library)
-Intel Extension for Pytoch and Tensorflow(and appropriate Intel processor for that)
+Intel Extension for Pytoch and Tensorflow(and appropriate Intel processor for that for best performance)
