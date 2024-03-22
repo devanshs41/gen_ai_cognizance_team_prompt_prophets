@@ -14,16 +14,14 @@ Our pipeline involves the following steps:
 
 4. *Text-to-Image Generation*: Each pivotal section of the story is fed into a text-to-image model to generate corresponding images. These images help visualize key scenes and characters from the story.
 
-5. *User Interaction*: Users have the opportunity to review the story and the generated images. If satisfied, they can proceed with enjoying the story. If not, they can provide feedback on what to edit or improve in the story.
+5. *User Interaction*: Users have the opportunity to review the story. If satisfied, they can proceed with enjoying the image narrative. If not, they can provide feedback on what to edit or improve in the story.
 
 6. *Story Regeneration*: Based on user feedback, the story may undergo regeneration, incorporating suggested edits or improvements. This iterative process ensures that the final story meets the user's expectations.
 
 ## Repository Structure
 
-- code/: Contains the codebase for the Interactive Storyteller project.
-- models/: Stores pre-trained text-to-text and text-to-image models used in the project.
-- samples/: Includes sample inputs, generated stories, and corresponding images for demonstration purposes.
-- docs/: Documentation files, including this README.
+- Contains the jupyter notebook for the Interactive Storyteller project.
+- Documentation file,this README.
 
 ## Usage
 
