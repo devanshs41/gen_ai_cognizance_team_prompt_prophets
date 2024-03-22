@@ -21,7 +21,7 @@ Our pipeline involves the following steps:
 ## Repository Structure
 
 - Contains the jupyter notebook for the Interactive Storyteller project.
-- Documentation file,this README.
+- Documentation files, including this README.
 
 ## Usage
 
