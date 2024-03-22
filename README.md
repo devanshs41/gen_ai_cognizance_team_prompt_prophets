@@ -29,7 +29,8 @@ To use the Interactive Storyteller:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies as specified in the requirements.txt file.
-3. Run the provided scripts or integrate the functionality into your own application.
+3. Run the provided notebook.
+4. Find the generated visual narrative in result folder created.
 
 ## Contributions
 
