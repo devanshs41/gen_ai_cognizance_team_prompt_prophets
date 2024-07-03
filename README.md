@@ -10,7 +10,7 @@ Our pipeline involves the following steps:
 
 2. *Text-to-Text Story Generation*: Using text-to-text large language models, we generate the story based on the provided inputs. The model crafts a narrative that unfolds based on the characters, plot, and theme provided by the user.
 
-3. *Story Division*: The generated story is divided into pivotal sections, ensuring that each section captures a significant moment or development in the narrative.
+3. *Story Segmentation*: The crafted narrative is segmented into key sections, with each segment encapsulating a crucial moment or progression in the storyline.*Story Division*: The generated story is divided into pivotal sections, ensuring that each section captures a significant moment or development in the narrative.
 
 4. *Text-to-Image Generation*: Each pivotal section of the story is fed into a text-to-image model to generate corresponding images. These images help visualize key scenes and characters from the story.
 
